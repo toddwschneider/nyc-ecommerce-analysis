@@ -1,6 +1,6 @@
 # NYC E-commerce Deliveries Analysis
 
-Materials prepared in support of Charles Komanoff's report to the New York City Council, "Taming NYC's E-Delivery Gridlock"
+Materials prepared in support of Charles Komanoff's report to the New York City Council, [Taming NYC's E-Delivery Gridlock](https://www.komanoff.net/cars_II/Taming_NYC's_E-Delivery_Gridlock.pdf)
 
 The setup and schema code is largely copied from the [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) GitHub repository, with a few changes:
 
